@@ -1,0 +1,24 @@
+{
+  "name": "ueda-aed-tsv2json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node --esm src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.1.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@types/download": "^8.0.2",
+    "csv-parse": "^5.3.10",
+    "download": "^8.0.0",
+    "ts-node": "^10.9.1"
+  }
+}
