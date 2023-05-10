@@ -1,0 +1,256 @@
+#LINK
+#lang	ja
+#attribution_url	http://www.city.ueda.nagano.jp/
+#attribution_name	hompg.ueda.city@gmail.com
+#license	http://creativecommons.org/licenses/by/3.0/deed.ja
+#file_name	aed_ueda
+#download_from	http://linkdata.org/work/rdf1s1202i
+#property	name	address	location	tel	count	http://www.w3.org/2003/01/geo/wgs84_pos#lat	http://www.w3.org/2003/01/geo/wgs84_pos#long	detail
+#object_type_xsd	string	string	string	string	int	float	float	string
+#property_context	Assertion	Assertion	Assertion	Assertion	Assertion	Assertion	Assertion	Assertion
+aed_ueda_0101	上田第一中学校	長野県上田市国分200				36.385860950027016	138.27276706695557	http://www.school.umic.jp/ueda1/
+aed_ueda_0102	上田第二中学校	長野県上田市大手1-1-45				36.402416592945016	138.2474845647812	http://www.school.umic.jp/ueda2/
+aed_ueda_0103	上田第三中学校	長野県上田市中央北3-3-62				36.415515246498664	138.25272023677826	http://www.school.umic.jp/ueda3/
+aed_ueda_0104	上田第四中学校	長野県上田市諏訪形1200				36.39226944709636	138.23794662952423	http://www.school.umic.jp/ueda4/
+aed_ueda_0105	上田第五中学校	長野県上田市上野441				36.407273800224665	138.2916471362114	http://www.school.umic.jp/ueda5/
+aed_ueda_0106	上田第六中学校	長野県上田市小泉21-1				36.38879104607423	138.19708585739136	http://www.school.umic.jp/ueda6/
+aed_ueda_0107	塩田中学校	長野県上田市中野377				36.362334129100034	138.19735407829285	http://www.school.umic.jp/shioda/
+aed_ueda_0108	丸子中学校	長野県上田市上丸子1878				36.326704258695834	138.26867669820785	http://www.school.umic.jp/maruko/
+aed_ueda_0109	丸子北中学校	長野県上田市生田3556				36.35278877207101	138.27789276838303	http://www.school.umic.jp/marukokj/
+aed_ueda_0110	真田中学校	長野県上田市真田町長6326-1				36.439776888964346	138.30226063728332	http://www.school.umic.jp/sanada/
+aed_ueda_0111	依田窪南部中学校	長野県上田市下武石111				36.28652874393614	138.24868887662887	http://www.yodakubo.ed.jp/
+aed_ueda_0112	菅平小中学校	長野県上田市菅平高原1223-1419				36.532999820445724	138.32445859909058	http://www.school.umic.jp/sugadaira/
+aed_ueda_0113	清明小学校	長野県上田市大手2-4-41				36.40349815737658	138.24926286935806	http://www.school.umic.jp/seimei/
+aed_ueda_0114	東小学校	長野県上田市材木町1-10-13				36.398910580003395	138.2630655169487	http://www.school.umic.jp/higashi/
+aed_ueda_0115	西小学校	長野県上田市常磐城5-1-53				36.41001313121073	138.24372947216034	http://www.school.umic.jp/nishi/
+aed_ueda_0116	北小学校	長野県上田市中央北3-1-52				36.41243074261707	138.25475871562958	http://www.school.umic.jp/kita/
+aed_ueda_0117	城下小学校	長野県上田市諏訪形928-2				36.38956619671234	138.2408058643341	http://www.school.umic.jp/shiroshita/
+aed_ueda_0118	塩尻小学校	長野県上田市上塩尻219				36.417088749581765	138.21831285953522	http://www.school.umic.jp/shiojiri/
+aed_ueda_0119	川辺小学校	長野県上田市上田原367				36.394631475508156	138.21342587471008	http://www.school.umic.jp/kawabe/
+aed_ueda_0120	神川小学校	長野県上田市国分1386				36.37641997805455	138.2749155163765	http://www.school.umic.jp/kangawa/
+aed_ueda_0121	神科小学校	長野県上田市住吉386-1				36.40847618198356	138.28585892915726	http://www.school.umic.jp/kamishina/
+aed_ueda_0122	豊殿小学校	長野県上田市芳田968-1				36.40323262498826	138.3080729842186	http://www.school.umic.jp/houden/
+aed_ueda_0123	東塩田小学校	長野県上田市古安曽1113				36.34874476479401	138.22098702192306	http://www.school.umic.jp/higashishioda/
+aed_ueda_0124	中塩田小学校	長野県上田市中野93				36.36393678754897	138.19935500621796	http://www.school.umic.jp/nakashioda/
+aed_ueda_0125	塩田西小学校	長野県上田市山田476-1				36.351509920685736	138.17582935094833	http://www.school.umic.jp/shiodanishi/
+aed_ueda_0126	浦里小学校	長野県上田市浦野237				36.37750406373018	138.1615975499153	http://www.school.umic.jp/urasato/
+aed_ueda_0127	川西小学校	長野県上田市仁古田508				36.38353320475269	138.18125009536743	http://www.school.umic.jp/kawanishi/
+aed_ueda_0128	南小学校	長野県上田市中之条485				36.39578871368801	138.222234249115	http://www.school.umic.jp/minami/
+aed_ueda_0129	丸子中央小学校	長野県上田市上丸子824				36.32371563826138	138.2736736536026	http://www.school.umic.jp/marukoch/
+aed_ueda_0130	西内小学校	長野県上田市平井1704				36.303211433639454	138.16210448741913	http://www.school.umic.jp/nishiuchi/
+aed_ueda_0131	丸子北小学校	長野県上田市生田3556				36.34994589144901	138.27727854251861	http://www.school.umic.jp/marukoke/
+aed_ueda_0132	塩川小学校	長野県上田市塩川1400				36.35591020454545	138.305806517601	http://www.school.umic.jp/shiogawa/
+aed_ueda_0133	長小学校	長野県上田市真田町長4200-3				36.4473870336152	138.32293510437012	http://www.school.umic.jp/osa/
+aed_ueda_0134	傍陽小学校	長野県上田市真田町傍陽6035-1				36.457453631187086	138.29139232635498	http://www.school.umic.jp/soehi/
+aed_ueda_0135	本原小学校	長野県上田市真田町本原2175-1				36.42901525473767	138.30815881490707	http://www.school.umic.jp/motohara/
+aed_ueda_0137	武石小学校	長野県上田市上武石20				36.28160345823708	138.2306805253029	http://www.school.umic.jp/takeshi/
+aed_ueda_0201	上田高等学校	長野県上田市大手1-4-32				36.4009010821293	138.24894100427627	http://ueda-h.ddo.jp/
+aed_ueda_0202	上田染谷丘高等学校	長野県上田市上田西岡1710				36.4096396898832	138.2614615559578	http://www.nagano-c.ed.jp/someyahs/
+aed_ueda_0203	上田東高等学校	長野県上田市常田3-5-68				36.39516259815522	138.26389968395233	http://www.nagano-c.ed.jp/uehs/
+aed_ueda_0204	上田千曲高等学校	長野県上田市中之条626				36.40070246598572	138.2283791899681	http://www.nagano-c.ed.jp/chikuma/
+aed_ueda_0205	丸子修学館高等学校	長野県上田市中丸子810-2				36.33085096877019	138.27603936195373	http://www.nagano-c.ed.jp/marukohs/
+aed_ueda_0206	上田西高等学校	長野県上田市下塩尻868				36.412540828488225	138.20693761110306	http://www.uedanishi.ed.jp/
+aed_ueda_0207	さくら国際高等学校	長野県上田市手塚1065				36.345495581131715	138.18029254674911	http://www.sakura-kokusai.ed.jp/
+aed_ueda_0301	信州大学繊維学部	長野県上田市常田3-15-1				36.392634335514636	138.2619658112526	http://www.shinshu-u.ac.jp/faculty/textiles/
+aed_ueda_0302	長野大学	長野県上田市下之郷658-1				36.369157078178596	138.22314083576202	http://www.nagano.ac.jp/
+aed_ueda_0303	上田女子短期大学	長野県上田市下之郷乙620				36.3696063048611	138.22073489427566	http://www.uedawjc.ac.jp/
+aed_ueda_0304	長野県工科短期大学校	長野県上田市下之郷813-8				36.36263004021997	138.23413252830505	http://www.pit-nagano.ac.jp/
+aed_ueda_0305	信学会　上田予備学校	長野県上田市中央1-2-21				36.399103	138.250675	http://www.shingakukai.or.jp/yobi/index.html
+aed_ueda_0401	東部保育園	長野県上田市常田3-4-34				36.39613415458163	138.26186388731003	http://www.city.ueda.nagano.jp/hp/sys/20091102143734296.html
+aed_ueda_0402	南部保育園	長野県上田市常田1-5-1				36.39221115115488	138.25323522090912	http://www.city.ueda.nagano.jp/hp/sys/20091102144244096.html
+aed_ueda_0403	北保育園	長野県上田市常磐城5-7-25				36.41266602399526	138.24276387691498	http://www.city.ueda.nagano.jp/hp/sys/20091102144309415.html
+aed_ueda_0404	塩尻保育園	長野県上田市上塩尻195-1				36.417035	138.219798	http://www.city.ueda.nagano.jp/hp/sys/20091102144403079.html
+aed_ueda_0405	神川第一保育園	長野県上田市大屋631-2				36.370138	138.290023	http://www.city.ueda.nagano.jp/hp/sys/20091102144427649.html
+aed_ueda_0406	神川第二保育園	長野県上田市芳田1766-2				36.38007816678987	138.28873425722122	http://www.city.ueda.nagano.jp/hp/sys/20091102144500471.html
+aed_ueda_0407	国分保育園	長野県上田市国分745-イ				36.383564	138.274082	http://www.city.ueda.nagano.jp/hp/sys/20091102144528895.html
+aed_ueda_0408	神科第一保育園	長野県上田市住吉707-2				36.410494500909415	138.2797408103943	http://www.city.ueda.nagano.jp/hp/sys/20091102144553371.html
+aed_ueda_0409	神科第二保育園	長野県上田市古里137-6				36.40030307329074	138.2867655158043	http://www.city.ueda.nagano.jp/hp/sys/20091102144619532.html
+aed_ueda_0410	豊殿保育園	長野県上田市芳田982-3				36.403126843540164	138.30658167600632	http://www.city.ueda.nagano.jp/hp/sys/20091102144851741.html
+aed_ueda_0411	城下保育園	長野県上田市諏訪形934				36.39055725549056	138.2413637638092	http://www.city.ueda.nagano.jp/hp/sys/20091102144932925.html
+aed_ueda_0412	川辺保育園	長野県上田市上田原518				36.39164978059215	138.21606248617172	http://www.city.ueda.nagano.jp/hp/sys/20091102144956762.html
+aed_ueda_0413	下之条保育園	長野県上田市下之条801-イ				36.40348304580159	138.2181304693222	http://www.city.ueda.nagano.jp/hp/sys/20091102145021863.html
+aed_ueda_0414	泉田保育園	長野県上田市小泉1-8				36.39067600896276	138.19921016693115	http://www.city.ueda.nagano.jp/hp/kodomo/0450/20110309094632779.html
+aed_ueda_0415	塩田中央保育園	長野県上田市中野419-1				36.36025839976173	138.19632411003113	http://www.city.ueda.nagano.jp/hp/sys/20091102145159924.html
+aed_ueda_0416	東塩田保育園	長野県上田市下之郷806-3				36.35563802925554	138.21806073188782	http://www.city.ueda.nagano.jp/hp/sys/20091102145225836.html
+aed_ueda_0417	西塩田保育園	長野県上田市手塚1086-3				36.346325	138.181189	http://www.city.ueda.nagano.jp/hp/sys/20091102145327300.html
+aed_ueda_0418	塩田北保育園	長野県上田市小島122				36.37169474292504	138.20268630981445	http://www.city.ueda.nagano.jp/hp/sys/20091102145557746.html
+aed_ueda_0419	浦里保育園	長野県上田市仁古田171				36.37495147136984	138.16811800003052	http://www.city.ueda.nagano.jp/hp/sys/20091102145741408.html
+aed_ueda_0420	室賀保育園	長野県上田市下室賀2336-1				36.39976766797141	138.16451847553253	http://www.city.ueda.nagano.jp/hp/sys/20091102145810799.html
+aed_ueda_0421	小泉保育園	長野県上田市小泉739-4				36.388419661971554	138.18856447935104	http://www.city.ueda.nagano.jp/hp/sys/20091102145845181.html
+aed_ueda_0422	中丸子保育園	長野県上田市中丸子1852-5				36.3378257601955	138.26924264431	http://www.city.ueda.nagano.jp/hp/sys/20091102145916147.html
+aed_ueda_0423	みなみ保育園	長野県上田市腰越1376-1				36.31351932304731	138.26695203781128	http://www.city.ueda.nagano.jp/hp/sys/20091102145959905.html
+aed_ueda_0424	東内保育園	長野県上田市東内2570-1				36.31308057925915	138.23390990495682	http://www.city.ueda.nagano.jp/hp/sys/20091102150048749.html
+aed_ueda_0425	西内保育園	長野県上田市西内8				36.30245055408519	138.15969586372375	http://www.city.ueda.nagano.jp/hp/sys/20091102150125237.html
+aed_ueda_0426	依田保育園	長野県上田市生田4953-2				36.35136302424905	138.2684674859047	http://www.city.ueda.nagano.jp/hp/sys/20091102150154222.html
+aed_ueda_0427	長瀬保育園	長野県上田市長瀬2466				36.35091585250782	138.28360050916672	http://www.city.ueda.nagano.jp/hp/sys/20091102150221210.html
+aed_ueda_0428	塩川保育園	長野県上田市塩川1458				36.354854	138.304861	http://www.city.ueda.nagano.jp/hp/sys/20091102150249290.html
+aed_ueda_0429	さなだ保育園	長野県上田市真田町長6301				36.43986535821699	138.30050110816955	http://www.city.ueda.nagano.jp/hp/sys/20091102150315607.html
+aed_ueda_0430	そえひ保育園	長野県上田市真田町傍陽6293				36.45276136988871	138.29239547252655	http://www.city.ueda.nagano.jp/hp/sys/20091102150356323.html
+aed_ueda_0431	すがだいら保育園	長野県上田市菅平高原1223-392				36.52644344588776	138.3224442601204	http://www.city.ueda.nagano.jp/hp/sys/20091102150437055.html
+aed_ueda_0432	武石保育園	長野県上田市下武石752				36.285071514434804	138.23018163442612	http://www.city.ueda.nagano.jp/hp/sys/20091102150522310.html
+aed_ueda_0433	ちぐさ幼稚園	長野県上田市塩川2620				36.363010187160725	138.30080419778824	http://www.city.ueda.nagano.jp/hp/sys/20091102154111975.html
+aed_ueda_0434	わかくさ幼稚園	長野県上田市上丸子895				36.32440067562986	138.27369779348373	http://www.city.ueda.nagano.jp/hp/sys/20091102154146825.html
+aed_ueda_0435	（福）上田明照会　甘露保育園	長野県上田市中央5-9-29				36.403736	138.256663	http://www.city.ueda.nagano.jp/hp/sys/20091102150728920.html
+aed_ueda_0436	社会福祉法人　大智会　芙蓉保育園	長野県上田市中央北2-7-51				36.409911676229996	138.25483113527298	http://www.city.ueda.nagano.jp/hp/sys/20091102150800791.html
+aed_ueda_0437	聖ミカエル保育園	長野県上田市中央3-16-1				36.402814	138.255386	http://www.city.ueda.nagano.jp/hp/sys/20091102150833176.html
+aed_ueda_0438	保育園歓喜園	長野県上田市常磐城3-7-48				36.40736014782932	138.23789298534393	http://www.city.ueda.nagano.jp/hp/sys/20091102150857013.html
+aed_ueda_0439	みのり保育園	長野県上田市中之条501-10				36.39757203580558	138.22296917438507	http://www.city.ueda.nagano.jp/hp/sys/20091102150941208.html
+aed_ueda_0440	西丘保育園	長野県上田市芳田1411-1				36.38833329332134	138.2969444990158	http://www.city.ueda.nagano.jp/hp/sys/20091102151018960.html
+aed_ueda_0441	常田保育園	長野県上田市常田2-30-17				36.396615610266025	138.2568696141243	http://www.city.ueda.nagano.jp/hp/sys/20091102151044887.html
+aed_ueda_0442	秋和保育園	長野県上田市秋和864-3				36.414284913239044	138.23358803987503	http://www.city.ueda.nagano.jp/hp/sys/20091102151111875.html
+aed_ueda_0443	三好町保育園	長野県上田市諏訪形1169-1				36.39319785804983	138.23822557926178	http://www.city.ueda.nagano.jp/hp/sys/20091102151143106.html
+aed_ueda_0444	あゆみ保育園	長野県上田市古里824-8				36.39436807187354	138.2777264714241	http://www.city.ueda.nagano.jp/hp/sys/20091102151209829.html
+aed_ueda_0445	梅花幼稚園	長野県上田市大手2-2-8				36.402798704254366	138.2511404156685	http://www.city.ueda.nagano.jp/hp/sys/20091102153520522.html
+aed_ueda_0446	たちばな幼稚園	長野県上田市中央6-3-3				36.40327795985049	138.25789958238602	http://www.city.ueda.nagano.jp/hp/sys/20091102153550771.html
+aed_ueda_0447	聖マリア幼稚園	長野県上田市常田2-2-1				36.395929	138.254178	http://www.city.ueda.nagano.jp/hp/sys/20091102153614779.html
+aed_ueda_0448	大屋幼稚園	長野県上田市大屋40-1				36.375320760219026	138.29048305749893	http://www.city.ueda.nagano.jp/hp/sys/20091102153638928.html
+aed_ueda_0449	上田幼稚園	長野県上田市中央西2-8-3				36.409512330869646	138.24688643217087	http://www.city.ueda.nagano.jp/hp/sys/20091102153705276.html
+aed_ueda_0450	上田南幼稚園	長野県上田市上田原1183				36.387661773792836	138.223856985569	http://www.city.ueda.nagano.jp/hp/sys/20091102153731203.html
+aed_ueda_0451	上田女子短期大学附属幼稚園	長野県上田市下之郷602				36.36991082724283	138.22003215551376	http://www.city.ueda.nagano.jp/hp/sys/20091102153756569.html
+aed_ueda_0452	日向幼稚園	長野県上田市小泉1335-イ				36.39528782166528	138.19674253463745	http://www.city.ueda.nagano.jp/hp/sys/20091102153823588.html
+aed_ueda_0453	上田北幼稚	長野県上田市上野1616-65				36.41297469481436	138.29677015542984	http://www.city.ueda.nagano.jp/hp/sys/20091102153850529.html
+aed_ueda_0454	いずみ幼稚園	長野県上田市真田町長7042				36.44376222083452	138.30337643623352	http://www.city.ueda.nagano.jp/hp/sys/20091102154015986.html
+aed_ueda_0501	上田養護学校	長野県上田市岩下462-1				36.369312580016086	138.28688621520996	http://www1.ueda.ne.jp/~uedayogo/
+aed_ueda_0601	アクアプラザ上田	長野県上田市上塩尻623				36.40985123490187	138.2218372821808	http://www.ueda.ne.jp/~aquaplaza/
+aed_ueda_0602	上田城跡公園体育館（2台）	長野県上田市常磐城1-1-30				36.40465958106123	138.2408595085144	http://www.city.ueda.nagano.jp/hp/sys/20091113155304256.html
+aed_ueda_0603	自然運動公園総合体育館（2台）	長野県上田市下之郷乙935				36.36917219642643	138.22955667972565	http://www.city.ueda.nagano.jp/hp/sys/20091118114314546.html
+aed_ueda_0604	塩田の郷マレットゴルフ場	長野県上田市前山2401				36.33572777057754	138.18130373954773	http://www.city.ueda.nagano.jp/hp/sys/20091119115600547.html
+aed_ueda_0605	古戦場公園室内多目的運動場	長野県上田市下之条351-1				36.39900557258652	138.20800244808197	http://www.city.ueda.nagano.jp/hp/sys/20091119105050875.html
+aed_ueda_0606	市民の森体育館	長野県上田市芳田3780-95				36.404562436622804	138.33229333162308	http://www.city.ueda.nagano.jp/hp/sys/20091118115504393.html
+aed_ueda_0607	上田城跡公園プール（健康推進課）	長野県上田市二の丸3-15				36.4049078385188	138.24639290571213	http://www.city.ueda.nagano.jp/hp/sys/20091119133419406.html
+aed_ueda_0608	依田窪プール（健康推進課）	長野県上田市腰越418-3				36.303656717662555	138.2501319050789	http://www.city.ueda.nagano.jp/hp/sys/20091119135818428.html
+aed_ueda_0609	丸子総合体育館（2台）	長野県上田市御岳堂1-1				36.325821	138.266477	http://www.city.ueda.nagano.jp/hp/sys/20091118131648065.html
+aed_ueda_0610	クアハウスかけゆ	長野県上田市鹿教湯温泉1293				36.30321575679751	138.1369185447693	http://www2.marukotv.jp/~kurhaus/
+aed_ueda_0611	真田体育館（2台）	長野県上田市真田町長7193-1				36.44155272806925	138.30422401428223	http://www.city.ueda.nagano.jp/hp/sys/20091118141016954.html
+aed_ueda_0612	菅平高原スポーツランド	長野県上田市菅平高原1278-244				36.52131563750384	138.34570169448853	http://www.city.ueda.nagano.jp/hp/sd/ssangyo/saniapark/index.html
+aed_ueda_0613	県営上田野球場	長野県上田市下之条354				36.39935099918273	138.21006774902344	http://www.city.ueda.nagano.jp/hp/sys/20091118144736397.html
+aed_ueda_0614	武石体育館（2台）	長野県上田市上武石2				36.281048	138.231065	http://www.city.ueda.nagano.jp/hp/sys/20091118142224523.html
+aed_ueda_0615	武石森林公園マレットゴルフ場	長野県上田市下武石1899				36.28752976267862	138.22825849056244	http://www.city.ueda.nagano.jp/hp/sys/20091119132352536.html
+aed_ueda_0616	アール．ボディーウエダ	長野県上田市住吉128-2　2階				36.4022449	138.269576	
+aed_ueda_0701	農林漁業体験実習館（室賀温泉ささらの湯）	長野県上田市上室賀1232-1				36.40959651735962	138.1481248140335	http://www.city.ueda.nagano.jp/hp/sys/20091103000001237.html
+aed_ueda_0702	真田総合福祉センター	長野県上田市真田町長7190				36.441509646889426	138.3038289712906	
+aed_ueda_0703	ふれあい真田館	長野県上田市真田町長7369-1				36.44304802644149	138.30766797065735	http://www.sanadanosato.or.jp/onsen.html
+aed_ueda_0704	相染閣「あいそめの湯」	長野県上田市別所温泉58				36.353578869807764	138.16285084323883	http://www.city.ueda.nagano.jp/hp/ht/kenko/aizenkaku/index.html
+aed_ueda_0705	丸子老人福祉センターたんぽぽ	長野県上田市長瀬2466				36.350241849667846	138.28407526016235	
+aed_ueda_0706	国民宿舎「鹿月荘」	長野県上田市鹿教湯温泉1295-2				36.30279640934827	138.13702583312988	http://www1.marukotv.jp/~kagetuso/
+aed_ueda_0707	岳の湯温泉雲渓荘	長野県上田市小沢根578				36.24022354810163	138.19429636001587	http://www.unkeiso.com/3unkei.html
+aed_ueda_0708	特別養護老人ホームともしび	長野県上田市下武石776-1				36.286046607217116	138.22899878025055	http://www.janis.or.jp/users/tomosibi/service/tokuyo.html
+aed_ueda_0709	武石デイサービスセンターやすらぎ	長野県上田市下武石771-1				36.28551473993712	138.22952449321747	
+aed_ueda_0710	上田市ふれあい福祉センター	長野県上田市中央3-5-1				36.40419544542594	138.25320571660995	
+aed_ueda_0711	武石温泉うつくしの湯	長野県上田市上武石1454-3				36.286392535209785	138.22689056396484	
+aed_ueda_0712	神川デイサービスセンター	長野県上田市国分533-20				36.37857949634309	138.2776540517807	
+aed_ueda_0713	塩田デイサービスセンター	長野県上田市中野339-2				36.3638676708845	138.1965172290802	
+aed_ueda_0714	塩田西デイサービスセンター	長野県上田市舞田93-2				36.361293	138.18198	
+aed_ueda_0715	室賀デイサービスセンター	長野県上田市上室賀19				36.402926074273274	138.15970659255981	
+aed_ueda_0716	丸子保健センター（丸子ふれあいステーション）	長野県上田市上丸子1600-1				36.3240073741545	138.26920241117477	http://www.city.ueda.nagano.jp/hp/sys/20090908095923030.html
+aed_ueda_0717	真田保健センター	長野県上田市真田町長7199-1				36.44155704354611	138.3050635457039	http://www.city.ueda.nagano.jp/hp/sys/20090908100221011.html
+aed_ueda_0718	原峠保養園	長野県上田市御所38				36.378424013029466	138.23151469230652	
+aed_ueda_0801	上田市役所本庁舎	長野県上田市大手1-11-16				36.401872566822014	138.24902415275574	http://www.city.ueda.nagano.jp/hp/sys/20100527160052002.html
+aed_ueda_0802	上田市役所南庁舎	長野県上田市大手1-11-16				36.40158759923759	138.249249458313	http://www.city.ueda.nagano.jp/hp/sys/20100527161000092.html
+aed_ueda_0803	上田市役所北庁舎	長野県上田市大手2-4-10				36.402667016388214	138.24835896492004	http://www.city.ueda.nagano.jp/hp/sys/20100527161513621.html
+aed_ueda_0804	上田市教育委員会やぐら下庁舎	長野県上田市天神2-4-74				36.40123138828749	138.24488013982773	http://www.city.ueda.nagano.jp/hp/sys/20100528102133189.html
+aed_ueda_0805	上田市教育委員会第二庁舎	長野県上田市天神2-4-55				36.402258998467914	138.24258148670196	http://www.city.ueda.nagano.jp/hp/sys/20100528102413323.html
+aed_ueda_0806	丸子地域自治センター	長野県上田市上丸子1612				36.32384529879316	138.2703074812889	http://www.city.ueda.nagano.jp/hp/sys/20100527162512599.html
+aed_ueda_0807	真田地域自治センター	長野県上田市真田町長7178-1				36.440637841552224	138.3039826154709	http://www.city.ueda.nagano.jp/hp/sys/20100528094224625.html
+aed_ueda_0808	武石地域自治センター	長野県上田市上武石77				36.28352561066505	138.23049008846283	http://www.city.ueda.nagano.jp/hp/sys/20100528101634184.html
+aed_ueda_0901	上田情報ライブラリー	長野県上田市天神1-8-1				36.397507266953205	138.25056105852127	http://www.city.ueda.nagano.jp/hp/sys/20091103000001398.html
+aed_ueda_0902	上田市民会館	長野県上田市二の丸1-2				36.40274689266152	138.24576526880264	http://www.city.ueda.nagano.jp/hp/sys/20091103000001349.html
+aed_ueda_0903	中央公民館（上田文化会館）	長野県上田市材木町1-2-3				36.400072072254574	138.26023042201996	http://www.city.ueda.nagano.jp/hp/sys/20100302153758453.html
+aed_ueda_0904	西部公民館	長野県上田市常磐城5-1-44				36.410649	138.243294	http://www.city.ueda.nagano.jp/hp/sys/20091103000001319.html
+aed_ueda_0905	城南公民館	長野県上田市中之条452				36.395665	138.225535	http://www.city.ueda.nagano.jp/hp/sys/20091103000001324.html
+aed_ueda_0906	上野が丘公民館	長野県上田市住吉378-1				36.40785232734343	138.28352808952331	http://www.city.ueda.nagano.jp/hp/sys/20091103000001330.html
+aed_ueda_0907	塩田公民館	長野県上田市中野20				36.35914167335311	138.19871127605438	http://www.city.ueda.nagano.jp/hp/sys/20091103000001335.html
+aed_ueda_0908	川西公民館	長野県上田市小泉863-1				36.383885	138.184973	http://www.city.ueda.nagano.jp/hp/sys/20091103000001340.html
+aed_ueda_0909	上田城跡公園（公園管理事務所）	長野県上田市天神2-3-13				36.4021057213411	138.24515104293823	
+aed_ueda_0910	池波正太郎　真田太平記館	長野県上田市中央3-7-3				36.40318729009957	138.25354099273682	http://www.city.ueda.nagano.jp/hp/sys/20091103000001261.html
+aed_ueda_0911	上田市観光会館	長野県上田市大手2-8-4				36.40294118595658	138.24731558561325	http://www.city.ueda.nagano.jp/hp/sys/20091103000001123.html
+aed_ueda_0912	丸子公民館	長野県上田市上丸子1592-2		0268-42-3147		36.32283177988921	138.26895833015442	http://www.city.ueda.nagano.jp/hp/sys/20091103000001344.html
+aed_ueda_0913	丸子文化会館	長野県上田市上丸子1488				36.318533362406576	138.26956450939178	http://www.city.ueda.nagano.jp/hp/sys/20091103000001357.html
+aed_ueda_0914	信州国際音楽村	長野県上田市生田2937				36.362016617376916	138.27866524457931	http://www.ongakumura.jp/
+aed_ueda_0915	菅平国際リゾートセンター	長野県上田市菅平高原1223-1751				36.52841558937898	138.33285927772522	http://sugadaira.com/index.html
+aed_ueda_0916	上小地方事務所	長野県上田市材木町1-2-6				36.40083847492145	138.26015263795853	http://www.pref.nagano.lg.jp/xtihou/jousyou/index.htm
+aed_ueda_0917	上田創造館	長野県上田市上田原1640				36.38667067810407	138.2254233956337	http://www.area.ueda.nagano.jp/sozokan/
+aed_ueda_0918	練馬区武石少年自然の家	長野県上田市上本入2469				36.267757805775226	138.14025789499283	http://www.unkeiso.com/seinen.html
+aed_ueda_0919	JR東日本上田駅	長野県上田市天神1-1-1				36.39650118384889	138.24973225593567	
+aed_ueda_0920	上田 道と川の駅交流センター	長野県上田市小泉字塩田川原2575-2				36.40660460303467	138.2051646709442	http://www.city.ueda.nagano.jp/hp/toshi/0590/20100423131418493.html
+aed_ueda_1001	信州玉姫殿	長野県上田市常磐城3-6-35				36.40552	138.236245	http://www.bellevie-s.com/
+aed_ueda_1002	信州さがみ典礼　上田法事センター	長野県上田市常磐城3-2236-2				36.40680320409253	138.23464214801788	http://www.n-sagami.com/
+aed_ueda_1003	上田東急イン	長野県上田市天神4-24-1				36.395492928702765	138.24973493814468	http://www.uedatokyuinn.com/
+aed_ueda_1004	（株）堀内電機製作所	長野県上田市保野241				36.37155652331719	138.19465041160583	
+aed_ueda_1005	（株）イトーヨーカドー上田店	長野県上田市天神1-9-1				36.39625074053669	138.25071930885315	http://www.itoyokado.co.jp/blog/066/
+aed_ueda_1006	上田運行サービス有限会社	長野県上田市富士山4405-1				36.338941	138.229305	
+aed_ueda_1007	斎藤ホテル	長野県上田市鹿教湯温泉1387				36.30094606584431	138.13643038272858	http://www.saito-hotel.co.jp/
+aed_ueda_1008	上田日本無線株式会社	長野県上田市踏入2-10-19				36.389143	138.260991	http://www.ujrc.co.jp/
+aed_ueda_1009	中部電力株式会社　上田営業所	長野県上田市中央1-7-29				36.39762816876731	138.25284361839294	
+aed_ueda_1010	アヴァシス株式会社（本社）	長野県上田市下之郷乙1077-5				36.36349	138.227404	http://avasys.jp/
+aed_ueda_1011	アヴァシス株式会社（上田事業所）	長野県上田市下之郷浅間原813-21				36.363826632835924	138.2315495610237	http://avasys.jp/
+aed_ueda_1012	松山株式会社	長野県上田市塩川5155				36.340376	138.3078142	http://www.niplo.co.jp/
+aed_ueda_1013	ホテルサンルート上田	長野県上田市天神1-8-2				36.39729568832599	138.25090169906616	http://www.sunroutehotel.jp/ueda/
+aed_ueda_1014	上田ガス株式会社	長野県上田市天神4-29-3				36.39394	138.2511641	
+aed_ueda_1015	信州富士電機株式会社	長野県上田市御嶽堂2535				36.34531626718143	138.25539708137512	http://www.fujielectric.co.jp/sfd/
+aed_ueda_1016	信州富士電機株式会社サービスセンター	長野県上田市富士山2464-207				36.3463964654525	138.24440002441406	
+aed_ueda_1017	信州丸子高原グリーンヒル管理センター	長野県上田市腰越2737-445				36.288182688070734	138.27989101409912	http://www.greenhit.jp/ghit/index.html
+aed_ueda_1018	社団法人　上田市医師会	長野県上田市中央2-22-10				36.39986913619829	138.2591414451599	
+aed_ueda_1019	株式会社アップル運輸	長野県上田市古里1620-1				36.3917793	138.2737401	http://www.apple-tp.co.jp/
+aed_ueda_1020	株式会社フロンティア	長野県上田市小島333				36.3737862	138.2045663	http://www.frontier-inc.co.jp/
+aed_ueda_1021	大和リース株式会社 長野真田デポ工場	長野県上田市真田町長2400-1				36.4578174	138.3370618	
+aed_ueda_1022	株式会社上田ケーブルビジョン	長野県上田市中央6-12-6				36.40206686230318	138.25937747955322	http://www.ueda.ne.jp/
+aed_ueda_1023	日信工業株式会社	長野県上田市国分840				36.3846078	138.2680799	http://www.nissinkogyo.co.jp/
+aed_ueda_1024	保野薬局	長野県上田市保野761-1				36.3731613	138.20078890000002	
+aed_ueda_1101	独立行政法人国立病院機構　長野病院	長野県上田市緑が丘1-27-21				36.41328983997958	138.25164198875427	http://www.nagano-hosp.go.jp/
+aed_ueda_1102	上田市産院	長野県上田市常磐城5-6-39				36.41137088830747	138.24384480714798	http://uedashi-sanin.jp/
+aed_ueda_1103	小児初期救急センター	長野県上田市緑が丘1-27-21				36.4125926335501	138.2504054903984	http://www.city.ueda.nagano.jp/hp/sys/20091102141932997.html
+aed_ueda_1104	武石診療所（武石保健センター）	長野県上田市下武石771-1				36.285422	138.229826	http://www.city.ueda.nagano.jp/hp/takeshi/0850/20100302110652286.html
+aed_ueda_1105	医療法人健静会　上田病院	長野県上田市中央1-3-3				36.398792	138.251589	http://www.ueda-hp.or.jp/
+aed_ueda_1106	医療法人光仁会　川西病院	長野県上田市保野710				36.37419129231341	138.19149613380432	http://www.koujin-kai.or.jp/KAWANISI/hospital.html
+aed_ueda_1107	（医）岸医院	長野県上田市上丸子328-1				36.3281866410549	138.2710263133049	http://www.kishi-clinic.or.jp/
+aed_ueda_1108	医療法人健和会　小林脳神経外科神経内科病院	長野県上田市常田3-15-41				36.393551	138.265193	
+aed_ueda_1109	医療法人共和会　塩田病院	長野県上田市中野29-2				36.360376	138.197992	http://shioda-hp.jp/index.php
+aed_ueda_1110	医療法人清泰会　滝澤病院	長野県上田市塩川3057-1				36.36367543983863	138.29399943351746	http://www.takizawa.or.jp/
+aed_ueda_1111	医療法人友愛会　千曲荘病院	長野県上田市中央東4-61				36.4028	138.266221	http://tikumaso.jp/index.php
+aed_ueda_1112	医療法人健救会　柳澤病院	長野県上田市中央西1-2-10				36.405211	138.248116	http://kenkyukai.or.jp/
+aed_ueda_1113	医療法人清心会　中山医院	長野県上田市中丸子1141				36.33199835190895	138.27244520187378	
+aed_ueda_1114	（医）あおやぎ眼科	長野県上田市住吉577				36.407986	138.278878	http://www.aoyagiganka.jp/
+aed_ueda_1115	上田花園病院	長野県上田市中央西1-15-25				36.407983	138.248283	http://homepage3.nifty.com/hanazono-hp/
+aed_ueda_1116	飯島医院	長野県上田市築地188				36.392893	138.205226	
+aed_ueda_1117	医療法人　飯田整形ペインクリニック	長野県上田市上田原717-12				36.390999881146705	138.2204157114029	
+aed_ueda_1118	池田クリニック	長野県上田市上田原687-1				36.390215	138.218731	
+aed_ueda_1119	今井眼科	長野県上田市下之郷346-6				36.374439	138.217068	http://www5b.biglobe.ne.jp/~i-ganka/
+aed_ueda_1120	上田腎臓クリニック	長野県上田市住吉322				36.405969	138.279183	http://www.jishyukai.or.jp/
+aed_ueda_1121	上田生協診療所	長野県上田市上塩尻393-1				36.41478999977737	138.22144031524658	http://www.toshin-iryou.com/
+aed_ueda_1122	上田整形外科クリニック	長野県上田市常田2-15-16				36.39331	138.25805	http://ar-ex.jp/ueda/
+aed_ueda_1123	上田透析クリニック	長野県上田市御所674				36.3987729	138.2347954	
+aed_ueda_1124	大谷外科呼吸器科医院	長野県上田市常田3-2-8				36.397071155275334	138.2602733373642	
+aed_ueda_1125	鹿教湯三才山リハビリテーションセンター三才山病院	長野県上田市鹿教湯温泉1777				36.29451275430682	138.0899477005005	http://www.janis.or.jp/users/kakeyuh2/misayama/index.html
+aed_ueda_1126	鹿教湯三才山リハビリテーションセンター鹿教湯病院分院	長野県上田市鹿教湯温泉1291				36.3030237	138.1365024	http://www.janis.or.jp/users/kakeyuh2/kakeyu/bunin.htm
+aed_ueda_1127	川西生協診療所	長野県上田市仁古田357-1				36.379007	138.172974	
+aed_ueda_1128	小泉クリニック	長野県上田市小泉775-7				36.383266	138.187295	
+aed_ueda_1129	甲田医院	長野県上田市中央1-6-24				36.397823	138.252558	
+aed_ueda_1130	甲田クリニック	長野県上田市古安曽1833				36.347389	138.219555	http://www.kohda-clinic.com/
+aed_ueda_1131	こさとクリニック	長野県上田市古里1926-17				36.398534	138.275106	http://www.avis.ne.jp/~kosato/index.html
+aed_ueda_1132	五野医院	長野県上田市小島237				36.37445	138.207352	
+aed_ueda_1133	小松内科循環器科医院	長野県上田市上田1493-3				36.408444	138.263532	
+aed_ueda_1134	斉藤外科医院	長野県上田市蒼久保1177				36.375345	138.281121	
+aed_ueda_1135	ささき小児科医院	長野県上田市常磐城5-1-19				36.40957061383396	138.24288189411163	
+aed_ueda_1136	佐藤医院	長野県上田市五加920				36.3683063	138.2092608	
+aed_ueda_1137	さとう眼科クリニック	長野県上田市神畑437				36.38314020192184	138.20855498313904	http://www.myclinic.ne.jp/satou_ganka/pc/index.html
+aed_ueda_1138	城南医院	長野県上田市御所373				36.394282	138.237621	
+aed_ueda_1139	高野外科医院	長野県上田市秋和493				36.41200334893271	138.2327726483345	
+aed_ueda_1140	田中整形外科医院	長野県上田市古里1624				36.391815	138.27471	
+aed_ueda_1141	ついじ内科消化器科クリニック	長野県上田市築地539-2				36.397198	138.205201	
+aed_ueda_1142	橋本医院	長野県上田市舞田1-1				36.361754	138.186826	
+aed_ueda_1143	ハートクリニック上田	長野県上田市踏入2-1225-6				36.390415	138.259716	
+aed_ueda_1144	はらだ内科クリニック	長野県上田市大屋513-1				36.36938385158772	138.29431056976318	http://harada-naika.com/
+aed_ueda_1145	松尾内科小児科	長野県上田市常田2-19-8				36.395948480292134	138.25595498085022	
+aed_ueda_1146	医療法人三折堂　宮下医院	長野県上田市中央西1-15-12				36.407294	138.248377	
+aed_ueda_1147	医療法人あさま会　リサーチパーククリニック	長野県上田市下之郷813-46				36.361682	138.232159	http://asamakai.com/
+aed_ueda_1148	丸子中央病院	長野県上田市中丸子1771-1				36.33833350408189	138.27054619789123	http://maruyamakai.or.jp/maruko-hp/
+aed_ueda_1149	医療法人成美会　渡辺皮膚科形成外科クリニック	長野県上田市小牧374-3				36.38518	138.25314	http://www.watanabe-hifu-keisei.jp/
+aed_ueda_1150	上田原レディース＆マタニティークリニック	長野県上田市上田原455-1				36.388682	138.215676	http://www.avis.ne.jp/~ueda-lmc/
+aed_ueda_1151	岩倉歯科医院	長野県上田市中央西1-9-29				36.40699316984673	138.249429166317	
+aed_ueda_1201	上田中央消防署	長野県上田市大手2-7-16				36.40457970675407	138.2481524348259	http://www.area.ueda.nagano.jp/shoubou/ueda_central.html
+aed_ueda_1202	上田南部消防署	長野県上田市小島550-1				36.38207131054897	138.21124255657196	http://www.area.ueda.nagano.jp/shoubou/ueda_south.html
+aed_ueda_1203	上田東北消防署	長野県上田市芳田1515-1				36.392023308379414	138.302201628685	http://www.area.ueda.nagano.jp/shoubou/ueda_east.html
+aed_ueda_1204	川西消防署	長野県上田市浦野126-2				36.375534558225105	138.15400153398514	http://www.area.ueda.nagano.jp/shoubou/kawanishi.html
+aed_ueda_1205	丸子消防署	長野県上田市上丸子1603-1				36.32378911258922	138.26961278915405	http://www.area.ueda.nagano.jp/shoubou/maruko.html
+aed_ueda_1206	真田消防署	長野県上田市真田町長7174-1				36.44092050811348	138.30288022756576	http://www.area.ueda.nagano.jp/shoubou/sanada.html
