@@ -7,9 +7,9 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v3
         with:
           node-version: 18.x
       
@@ -20,11 +20,7 @@ jobs:
       
       - name: commit files
         run: |
-          git config --local user.email "tdn.suama@gmail.com"
-          git config --local user.name "kohei ikeda"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git status | grep modified && git commit -m "data update(`date +%Y/%m/%d`)" -a || true
-      - name: push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          git push
