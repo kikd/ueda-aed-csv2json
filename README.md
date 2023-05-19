@@ -3,9 +3,9 @@
 上田市オープンデータサイトで公開している[上田市内AED設置箇所]([http://linkdata.org/work/rdf1s1202i](https://www.city.ueda.nagano.jp/soshiki/tokei/3784.html#c))のオープンデータをTSV形式でダウンロードし、JSONに変換しています。
 JSONファイルに変換することで、様々なアプリケーションへの再利用が容易になることを期待しています。
 
-以下の著作物を改変して利用しています。
-出典：公開データ名称（[上田市オープンデータサイト URL](https://www.city.ueda.nagano.jp/soshiki/tokei/3784.html)、2023/5/19）、
-上田市、クリエイティブ・コモンズ・ライセンス表示 4.0 国際
+以下の著作物を改変して利用しています。  
+出典：公開データ名称（[上田市オープンデータサイト URL](https://www.city.ueda.nagano.jp/soshiki/tokei/3784.html)、2023/5/19）、  
+上田市、クリエイティブ・コモンズ・ライセンス表示 4.0 国際  
 (https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 ## 実行方法
